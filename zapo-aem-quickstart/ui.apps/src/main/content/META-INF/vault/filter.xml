@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/zapo-aem">
+        <exclude pattern="/apps/zapo-aem/install" />
+    </filter>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/zapo-aem"/>
+</workspaceFilter>
